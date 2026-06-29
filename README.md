@@ -1,5 +1,5 @@
 # Garden Kits
-This project is a simple, responsive landing page built with Tailwind CSS v4.1, Vanilla JS and Vite. Its purpose is to showcase the products of a fictional company specializing in gardening kits.
+This project is a simple, responsive landing page built with Tailwind CSS v4.3, Vanilla JS and Vite. Its purpose is to showcase the products of a fictional company specializing in gardening kits.
 
 **Live demo:** View the project live at https://akabassijgos.github.io/garden-kits-landing/
 
